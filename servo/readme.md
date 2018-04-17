@@ -13,3 +13,4 @@ Makecode: https://makecode.microbit.org/_8dkAy9czFUso<br>
 
 <img src="https://github.com/udirbetalab/microbit/blob/master/servo/2xservo_x_y_radio.png">
 
+Thanks to @Fjukstad for code - https://twitter.com/Fjukstad
