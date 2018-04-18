@@ -1,5 +1,7 @@
 # 1x servo on micro:bit with radio
 
+** Use same code on both micro:bit (sender and receiver) **
+
 <a href="https://www.instagram.com/p/BRSxGCPhwWy"><img src="https://github.com/udirbetalab/microbit/blob/master/servo/servo_microbit.png"></a>
 
 Makecode: https://makecode.microbit.org/_aCwFH9ec6dzk<br>
