@@ -1,11 +1,11 @@
-# servo on micro:bit with radio
+# 1x servo on micro:bit with radio
 
 <a href="https://www.instagram.com/p/BRSxGCPhwWy"><img src="https://github.com/udirbetalab/microbit/blob/master/servo/servo_microbit.png"></a>
 
 Makecode: https://makecode.microbit.org/_aCwFH9ec6dzk<br>
 Video: https://www.instagram.com/p/BRSxGCPhwWy
 
-# 2x servo with radio
+# 2x servo on micro:bit with radio
 
 <a href="https://www.instagram.com/p/BhrEgRfl1OE"><img src="https://github.com/udirbetalab/microbit/blob/master/servo/2servo_microbit_radio.png"></a>
 
@@ -17,7 +17,7 @@ Thanks to @Fjukstad for code - https://twitter.com/Fjukstad<br>
 
 <img src="https://github.com/udirbetalab/microbit/blob/master/servo/2xservo_bb.png">
 
-# 3x servo with radio - control with movement and A + B 
+# 3x servo on micro:bit with radio - control with movement and A + B 
 
 <a href="https://www.instagram.com/p/BhtOaaxAAfe"><img src="https://github.com/udirbetalab/microbit/blob/master/servo/3_servo_microbit.png"></a><br>
 <img src="https://github.com/udirbetalab/microbit/blob/master/servo/3_servo_makecode.png"><br>
