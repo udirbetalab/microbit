@@ -19,7 +19,7 @@ Thanks to @Fjukstad for code - https://twitter.com/Fjukstad<br>
 
 # 3x servo with radio - control with movement and A + B 
 
-<img src="https://github.com/udirbetalab/microbit/blob/master/servo/3_servo_microbit.png"><br>
+<a href="https://www.instagram.com/p/BhtOaaxAAfe"><img src="https://github.com/udirbetalab/microbit/blob/master/servo/3_servo_microbit.png"></a><br>
 <img src="https://github.com/udirbetalab/microbit/blob/master/servo/3_servo_makecode.png"><br>
 
 Makecode: https://makecode.microbit.org/_bsKK71gr3Vpa
