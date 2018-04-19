@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/ZxYt768XuVzr9zqosJ/200w_d.gif"><br>
 
-Lag ditt eget TwitterOmeter som viser aktivitet på Twitter på micro:bit
+Lag ditt eget TwitterOmeter som viser aktivitet fra Twitter på micro:bit
 
 Du trenger:
 
@@ -14,7 +14,6 @@ Du trenger:
 
 <img src="https://github.com/udirbetalab/microbit/blob/master/twitter/led_on_microbit.png"><br>
 Makecode: https://makecode.microbit.org/_0FFbLfcLmddA
-
 Legg inn koden på micro:bit
 
 # python koder
