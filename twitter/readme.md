@@ -19,9 +19,9 @@ Legg inn koden på micro:bit
 
 # python koder
 
-Sikkerhetskoden som har verdier fra Twitterapps:
-- 
-Hovedkode som kommuniserer med micro:bit
-- https://github.com/udirbetalab/microbit/blob/master/twitter/python_kode.py
+Sikkerhetskoden som har verdier fra Twitterapps<br>
+- https://github.com/udirbetalab/microbit/blob/master/twitter/auth_xxxx.py<br>
+Hovedkode som kommuniserer med micro:bit<br>
+- https://github.com/udirbetalab/microbit/blob/master/twitter/python_kode.py<br>
 
 
