@@ -12,4 +12,11 @@ Du trenger:
 1 x Twitter Apps med oAuth nøkkel- https://apps.twitter.com/<br>
 1 x TwitterAPI på din maskin - https://github.com/geduldig/TwitterAPI<br>
 
+<img src="https://github.com/udirbetalab/microbit/blob/master/twitter/led_on_microbit.png"><br>
+Makecode: https://makecode.microbit.org/_0FFbLfcLmddA
+
+Legg inn koden på micro:bit
+
+# python kode
+
 
