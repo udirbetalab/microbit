@@ -21,6 +21,7 @@ Legg inn koden på micro:bit
 
 Sikkerhetskoden som har verdier fra Twitterapps<br>
 - https://github.com/udirbetalab/microbit/blob/master/twitter/auth_xxxx.py<br>
+
 Hovedkode som kommuniserer med micro:bit<br>
 - https://github.com/udirbetalab/microbit/blob/master/twitter/python_kode.py<br>
 
