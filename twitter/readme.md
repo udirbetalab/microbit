@@ -30,3 +30,4 @@ Hovedkode som kommuniserer med micro:bit<br>
 Bruk servoer til å vise Twitter aktivitet
 Makecode: https://makecode.microbit.org/_P5c62JJCWiTY
 
+<img src="https://github.com/udirbetalab/microbit/blob/master/twitter/servo_twitter.png">
