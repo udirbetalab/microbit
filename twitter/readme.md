@@ -17,6 +17,11 @@ Makecode: https://makecode.microbit.org/_0FFbLfcLmddA
 
 Legg inn koden på micro:bit
 
-# python kode
+# python koder
+
+Sikkerhetskoden som har verdier fra Twitterapps:
+- 
+Hovedkode som kommuniserer med micro:bit
+- https://github.com/udirbetalab/microbit/blob/master/twitter/python_kode.py
 
 
