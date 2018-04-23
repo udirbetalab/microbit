@@ -28,6 +28,8 @@ Hovedkode som kommuniserer med micro:bit<br>
 # ----------
 
 Bruk servoer til å vise Twitter aktivitet
+<img src="https://media.giphy.com/media/vcA8R2X89M9J8x57KF/200w_d.gif"><br>
+
 Makecode: https://makecode.microbit.org/_P5c62JJCWiTY<br>
 
 <img src="https://github.com/udirbetalab/microbit/blob/master/twitter/servo_twitter.png">
