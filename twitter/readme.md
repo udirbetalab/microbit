@@ -28,7 +28,7 @@ Hovedkode som kommuniserer med micro:bit<br>
 # ----------
 
 Bruk servoer til å vise Twitter aktivitet<br>
-<iframe src="https://giphy.com/embed/vcA8R2X89M9J8x57KF" width="480" height="336" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vcA8R2X89M9J8x57KF">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/vcA8R2X89M9J8x57KF/200w_d.gif"><br>
 
 Makecode: https://makecode.microbit.org/_P5c62JJCWiTY<br>
 
