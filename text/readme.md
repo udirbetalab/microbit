@@ -1,4 +1,4 @@
-# sending text to micro:bit
+# sending text to micro:bit from Python
 
 <img src="https://github.com/udirbetalab/microbit/blob/master/text/text_from_python.png"><br>
 https://makecode.microbit.org/_E3pdgUJkh8AH
