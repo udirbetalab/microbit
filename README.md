@@ -1,6 +1,10 @@
 # microbit
 
-In use to share micro:bit code
+Her finner du ulike prosjekter med micro:bit / In use to share micro:bit code<br>
+
+
+<img src="https://github.com/udirbetalab/microbit/blob/master/text/text_to_microbit.png"><br>
+Send tekst til micro:bit fra Python - https://github.com/udirbetalab/microbit/tree/master/text
 
 
 <img src="https://github.com/udirbetalab/microbit/blob/master/lightsword_microbit.JPG" width=300>
