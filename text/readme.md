@@ -21,3 +21,4 @@ while True:
     ser.write(text.encode())
     time.sleep(1)
 ```
+https://github.com/udirbetalab/microbit/blob/master/text/text_to_microbit.py
