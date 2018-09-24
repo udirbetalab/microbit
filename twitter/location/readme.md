@@ -1,6 +1,7 @@
 # track streams from Twitter in defined location and show on micro:bit
 
-Use LED on micro:bit or connect LED/Neopixel til turn on/off when trigger from Twitter<br>
+Use LED on micro:bit or connect LED/Neopixel to turn on/off when trigger from Twitter<br>
+<br>
 You need:
 * micro:bit with USB cable
 * computer with Python
