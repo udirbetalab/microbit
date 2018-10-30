@@ -1,4 +1,4 @@
-# Hvordan lese data fra micro:bit på din PC eller MAC.
+# Hvordan lese seriell data fra micro:bit på din PC eller MAC.
 
 I dette eksemplet tar vi utgangspunkt i den innebygde lyssensoren til micro:bit, men du kan fint bruke de andre sensorene om du ønkser det. <br>
 <br>
