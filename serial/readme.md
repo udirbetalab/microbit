@@ -22,4 +22,9 @@ Når du vet hvilken port micro:bit bruker kan du nå koble deg opp mot micro:bit
 <br>
 <img src="https://github.com/udirbetalab/microbit/blob/master/serial/filer/07.PNG"><img src="https://github.com/udirbetalab/microbit/blob/master/serial/filer/08.PNG"><br>
 Over ser dere eksempler på verdier sendt fra micro:bit. Til venstre er det kontorplass lysstyrke og til høyre er det tildekt micro:bit.<br>
+# MAC
+
+På MAC er det litt enklere å få tilgang til seriell data fra micro:bit. Du trenger ikke egent programm som Putty, men kan bruke terminalvinduet.<br>
+Åpne terminalvinduet og skriv inn kommandoen <b>ls -l /dev/tty.usb*</b> for å liste opp alle USB som er koblet til den MAC.<br>
+<img src="https://github.com/udirbetalab/microbit/blob/master/serial/filer/09.PNG"><br>
 
