@@ -37,7 +37,7 @@ For å koble terminalvinduet til micro:bit og lese ut verdier, bruker du kommand
 Under ser dere verdiene som kommer fra micro:bit<br>
 <img src="https://github.com/udirbetalab/microbit/blob/master/serial/filer/11.PNG"><br>
 
-# hva kan dette brukes til?
+# Hva kan dette brukes til?
 
 Dette er en måte å koble micro:bit til din datamaskin og hente ut data fra micro:bit sine sensorer. Disse dataene kan så brukes i andre programmer som kommuniserer med micro:bit over seriell port.<br>
 Når du kjenner til hvilke port micro:bit kommuniserer med din datamaskin, kan du også sende data til micro:bit.<br>
