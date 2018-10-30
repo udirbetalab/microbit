@@ -13,8 +13,11 @@ Når en micro:bit er tilkoblet din PC har den fått tilordnet en COM port. Raske
 I Ledetekst vinduet skriver du komandoen <b>mode</b><br>
 <img src="https://github.com/udirbetalab/microbit/blob/master/serial/filer/01.PNG"><br>
 Her ser dere ett eksemple uten micro:bit tilkoblet.<br>
+<br>
 <img src="https://github.com/udirbetalab/microbit/blob/master/serial/filer/02.PNG"><br>
 Her ser dere ett eksempel der micro:bit er tilkoblet og har COM port COM3<br>
-
+<br>
+Når du vet hvilken port micro:bit bruker kan du nå koble deg opp mot micro:bit ved hjelp av Putty.<br>
+<img src="https://github.com/udirbetalab/microbit/blob/master/serial/filer/06.PNG"><br>
 
 
