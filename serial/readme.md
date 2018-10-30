@@ -20,6 +20,6 @@ Her ser dere ett eksempel der micro:bit er tilkoblet og har COM port COM3<br>
 Når du vet hvilken port micro:bit bruker kan du nå koble deg opp mot micro:bit ved hjelp av Putty.<br>
 <img src="https://github.com/udirbetalab/microbit/blob/master/serial/filer/06.png"><br>
 <br>
-<img src="https://github.com/udirbetalab/microbit/blob/master/serial/filer/07.PNG" width="600"><img src="https://github.com/udirbetalab/microbit/blob/master/serial/filer/08.PNG" width="600"><br>
+<img src="https://github.com/udirbetalab/microbit/blob/master/serial/filer/07.PNG"><img src="https://github.com/udirbetalab/microbit/blob/master/serial/filer/08.PNG"><br>
 Over ser dere eksempler på verdier sendt fra micro:bit. Til venstre er det kontorplass lysstyrke og til høyre er det tildekt micro:bit.<br>
 
