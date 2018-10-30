@@ -3,7 +3,7 @@
 I dette eksemplet tar vi utgangspunkt i den innebygde lyssensoren til micro:bit, men du kan fint bruke de andre sensorene om du ønkser det. <br>
 <br>
 <img src="https://github.com/udirbetalab/microbit/blob/master/serial/filer/serial_write.png" width="500"><br>
-micro:bit kode: https://github.com/udirbetalab/microbit/blob/master/serial/filer/serial_write.png<br>
+micro:bit kode: https://makecode.microbit.org/_Mx7LtRb6s6CT<br>
 <br>
 # Windows PC
 For å lese data fra seriellport på din Windows PC er det enklest å bruke programmet <b>Putty</b> - https://www.putty.org/<br>
