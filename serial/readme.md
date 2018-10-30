@@ -10,6 +10,7 @@ For å lese data fra seriell port på din Windows PC er det enklest å bruke pro
 Last ned og installer programmet på din PC.<br>
 <br>
 Når en micro:bit er tilkoblet din PC har den fått tilordnet en COM port. Raskeste måte å finne COM porten til micro:bit er ved hjelp av Ledetekst som du får opp ved hjelp av CMD i søkefeltet fra startknappen.<br>
+<br>
 I Ledetekst vinduet skriver du kommandoen <b>mode</b><br>
 <img src="https://github.com/udirbetalab/microbit/blob/master/serial/filer/01.PNG"><br>
 Her ser dere ett eksemple uten micro:bit tilkoblet.<br>
