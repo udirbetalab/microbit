@@ -39,7 +39,7 @@ Under ser dere verdiene som kommer fra micro:bit<br>
 
 # hva kan dette brukes til?
 
-Dette er en måte å koble micro:bit til din datamaskin og hente ut data fra micro:bit sine sensorer. Disse dataene kan brukes i andre programmer, som f.eks datalogging av temerperatur, lys, kompass eller data blir visualisert.<br>
+Dette er en måte å koble micro:bit til din datamaskin og hente ut data fra micro:bit sine sensorer. Disse dataene kan brukes i andre programmer, som f.eks datalogging av temperatur, lys, kompassretning, x,y,z koordinater som igjen kan bli visualisert eller bearbeidet i andre programmer.<br>
 Når du kjenner til hvilke port micro:bit kommuniserer med din datamaskin, kan du også sende data til micro:bit.<br>
 TwitterOmeter - https://github.com/udirbetalab/twitterOmeter er ett eksempel der du henter ut data fra Twitter og visualiserer det på din micro:bit med noepixel eller de innebygde LED på micro:bit.
 
