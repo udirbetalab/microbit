@@ -26,7 +26,7 @@ Over ser dere eksempler på verdier sendt fra micro:bit. Til venstre er det kont
 # MAC
 
 På MAC er det litt enklere å få tilgang til seriell data fra micro:bit. Du trenger ikke eget programm som Putty, men du bruker terminalvinduet som er innebygd i operativsystemet.<br>
-Åpne terminalvinduet og skriv inn kommandoen <b>ls -l /dev/tty.usb*</b> for å liste opp alle USB som er koblet til den MAC.<br>
+Åpne terminalvinduet og skriv inn kommandoen <b>ls -l /dev/tty.usb*</b> for å liste opp alle USB som er koblet til din MAC.<br>
 <img src="https://github.com/udirbetalab/microbit/blob/master/serial/filer/09.PNG"><br>
 Som dere ser over er micro:bit koblet til på <b>/dev/tty.usbmodem40122</b></br>.<br>
 Listes det opp flerer <i>usbmodem</i>, må du prøve deg fram til hvilken som er rett. Tips er å kjøre kommandoen med micro:bit tilkoblet for deretter frakoblet micro:bit fra og se hva som forsvinner.>br>
