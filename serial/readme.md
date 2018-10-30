@@ -34,11 +34,12 @@ Listes det opp flerer <i>usbmodem</i>, må du prøve deg fram til hvilken som er
 For å koble terminalvinduet til micro:bit og lese ut verdier, bruker du kommandoen<br>
 <pre>screen /dev/tty.usbmodem40122 115200</pre>der tallet etter <i>usbmodem</i> må byttes ut med dine verdier. Tallet 115200 er kommunikasjonshastigheten til micro:bit.<br>
 <img src="https://github.com/udirbetalab/microbit/blob/master/serial/filer/10.PNG"><br>
+Under ser dere verdiene som kommer fra micro:bit<br>
 <img src="https://github.com/udirbetalab/microbit/blob/master/serial/filer/11.PNG"><br>
-Over ser dere verdiene som kommer fra micro:bit<br>
 
 # hva kan dette brukes til?
 
-
-Skal du kommunisere med micro:bit fra din datamaskin er det vitig å kjenne til hvilken port (COM eller tty.usbmodemXXXX eller tilsvarende) micro:bit har. 
+Dette er en måte å koble micro:bit til din datamaskin og hente ut data fra micro:bit sine sensorer. Disse dataene kan brukes i andre programmer, som f.eks datalogging av temerperatur, lys, kompass eller data blir visualisert.<br>
+Når du kjenner til hvilke port micro:bit kommuniserer med din datamaskin, kan du også sende data til micro:bit.<br>
+TwitterOmeter - https://github.com/udirbetalab/twitterOmeter er ett eksempel der du henter ut data fra Twitter og visualiserer det på din micro:bit med noepixel eller de innebygde LED på micro:bit.
 
