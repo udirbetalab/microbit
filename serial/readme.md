@@ -39,7 +39,9 @@ Under ser dere verdiene som kommer fra micro:bit<br>
 
 # hva kan dette brukes til?
 
-Dette er en måte å koble micro:bit til din datamaskin og hente ut data fra micro:bit sine sensorer. Disse dataene kan så brukes i andre programmer som snakker med micro:bit over seriell port.<br>
+Dette er en måte å koble micro:bit til din datamaskin og hente ut data fra micro:bit sine sensorer. Disse dataene kan så brukes i andre programmer som kommuniserer med micro:bit over seriell port.<br>
 Når du kjenner til hvilke port micro:bit kommuniserer med din datamaskin, kan du også sende data til micro:bit.<br>
-TwitterOmeter - https://github.com/udirbetalab/twitterOmeter er ett eksempel der du henter ut data fra Twitter og visualiserer det på din micro:bit med noepixel eller de innebygde LED på micro:bit.
+TwitterOmeter - https://github.com/udirbetalab/twitterOmeter er et eksempel der du kan hente ut data fra Twitter og visualiserer det på micro:bit med neopixel eller de innebygde LED på micro:bit.
+<br>
+Eller du kan kjøre et lite Python program på din datamaskin, som viser ulike symboler på micro:bit. https://github.com/udirbetalab/microbit/tree/master/text
 
