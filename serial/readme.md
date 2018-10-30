@@ -32,7 +32,7 @@ Som dere ser over er micro:bit koblet til på <b>/dev/tty.usbmodem40122</b><br>
 Listes det opp flerer <i>usbmodem</i>, må du prøve deg fram til hvilken som er micro:bit. Ett tips er å kjøre kommandoen med micro:bit tilkoblet for deretter koble micro:bit fra og se hva som forsvinner.<br>
 <br>
 For å koble terminalvinduet til micro:bit og lese ut verdier, bruker du kommandoen<br>
-<div>screen /dev/tty.usbmodem40122 115200</div><br> der tallet etter <i>usbmodem</i> må byttes ut med dine verdier. Tallet 115200 er kommunikasjonshastigheten til micro:bit.<br>
+<pre>screen /dev/tty.usbmodem40122 115200</pre><br> der tallet etter <i>usbmodem</i> må byttes ut med dine verdier. Tallet 115200 er kommunikasjonshastigheten til micro:bit.<br>
 <img src="https://github.com/udirbetalab/microbit/blob/master/serial/filer/10.PNG"><br>
 <img src="https://github.com/udirbetalab/microbit/blob/master/serial/filer/11.PNG"><br>
 Over ser dere verdiene som kommer fra micro:bit<br>
